@@ -38,8 +38,8 @@ A fully functional **Ecommerce Website** built using **PHP** and **MySQL**, feat
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/MR-1124/PHP---Ecommerce-Learning-Project/
-cd PHP---Ecommerce-Learning-Project
+git clone https://github.com/MR-1124/PHP-Ecommerce-Site/
+cd PHP-Ecommerce-Site
 ```
 
 ### 2️⃣ Configure the Database
@@ -63,7 +63,7 @@ $database = "ecommerce";
 
 ### 4️⃣ Set Up the Web Server
 
-* Place the entire `PHP---Ecommerce-Learning-Project/` folder in your server's root directory:
+* Place the entire `PHP-Ecommerce-Site/` folder in your server's root directory:
 
   * For XAMPP: `htdocs/`
 * Ensure the `uploads/` folder has **write permissions** (for product image uploads).
@@ -76,7 +76,7 @@ $database = "ecommerce";
 2. Open your browser and visit:
 
 ```
-http://localhost/PHP---Ecommerce-Learning-Project/
+http://localhost/PHP-Ecommerce-Site/
 ```
 
 ### 🔐 Demo Credentials
